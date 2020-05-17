@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3b3163b-d5a4-48e6-bb08-a4e0d5ffc231" name="Default Changelist" comment="提交原始代码">
+      <change afterPath="$PROJECT_DIR$/src/Zhu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,8 +40,9 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Zhu">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="myJava" />
@@ -48,8 +50,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zhu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zhu" />
+      <module name="myJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zhu" />
         <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
@@ -77,6 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589723167775</updated>
       <workItem from="1589723170414" duration="2084000" />
+      <workItem from="1589728517245" duration="270000" />
     </task>
     <task id="LOCAL-00001" summary="显示helloworld">
       <created>1589724079451</created>
@@ -130,9 +141,10 @@
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state x="221" y="69" key="SettingsEditor/0.23.1440.816@0.23.1440.816" timestamp="1589724762743" />
-    <state x="397" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1589723172621">
-      <screen x="0" y="23" width="1440" height="814" />
+    <state x="397" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1589728528453">
+      <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="397" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.814@0.23.1440.814" timestamp="1589723172621" />
+    <state x="397" y="264" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1589728528453" />
   </component>
 </project>
